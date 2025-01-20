@@ -12,7 +12,7 @@ This space serves as a showcase for my independent projects, custom tools and co
   * 📖 My Senior Capstone team is sponsored by L3Harris. We are utilizing Rust and Next.js to build a Network Traffic Generator control suite for [Cisco's TRex](https://trex-tgn.cisco.com/), and other NTGs
 * 💼 I currently work as an intern for [University of Utah IT](https://it.utah.edu/) developing automated tests for various applications and APIs
 * 📐 I spend my free time working on [projects](https://github.com/mwdle?tab=repositories) showcased on this profile
-* 💭 I'm passionate about creating impactful software and exploring cutting-edge technologies
+* 💭 I'm passionate about creating impactful software and exploring cutting-edge technologies, with a particular interest in IoT, smart home systems like [Home Assistant](https://www.home-assistant.io/), and MCU-based projects.
 
 ## 🛠 Technical Skills
 
