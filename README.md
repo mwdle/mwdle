@@ -1,4 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Hand Wave Emoji Animation"> Welcome to my GitHub profile
+
 This space serves as a showcase for my independent projects, custom tools and configurations, and various other programming endeavours that I'm passionate about.
 
 > 📚 Academic projects are not included to ensure compliance with academic integrity and conduct policies.
@@ -21,7 +22,7 @@ This space serves as a showcase for my independent projects, custom tools and co
 
 ## 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwdle&langs_count=8&layout=compact&theme=radical&hide_border=true" width=30.5% height=25.5%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwdle&langs_count=8&layout=compact&theme=radical&hide_border=true" alt="My top used programming languages" width=30.5% height=25.5%/>
 
 ## 🤝 Connect with Me
 
