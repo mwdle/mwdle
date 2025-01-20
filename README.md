@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Hand Wave Emoji Animation"> Welcome to my GitHub profile
 
-This space serves as a showcase for my independent projects, custom tools and configurations, and various other programming endeavours that I'm passionate about.
+This space serves as a showcase for my independent projects, custom tools and configurations, and various other programming endeavors that I'm passionate about.
 
 > 📚 Academic projects are not included to ensure compliance with academic integrity and conduct policies.
 
