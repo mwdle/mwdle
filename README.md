@@ -22,7 +22,7 @@ This space serves as a showcase for my independent projects, custom tools and co
 
 ## 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwdle&langs_count=8&layout=compact&theme=radical&hide_border=true" alt="My top used programming languages" width=30.5% height=25.5%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwdle&langs_count=8&layout=compact&theme=radical&hide_border=true" alt="My top used programming languages" width=300rem height=250rem/>
 
 ## 🤝 Connect with Me
 
