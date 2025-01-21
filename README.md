@@ -9,9 +9,9 @@ This space serves as a showcase for my independent projects, custom tools and co
 ## 👤 About Me
 
 * 🎓 I will graduate from the [University of Utah](https://www.utah.edu/) in May 2025 with a Bachelor’s in Computer Science
-  * 📖 My Senior Capstone team is sponsored by L3Harris. We are utilizing Rust and Next.js to build a Network Traffic Generator control suite for [Cisco's TRex](https://trex-tgn.cisco.com/), and other NTGs
+  * 📖 My Senior Capstone team is sponsored by L3Harris. We are utilizing Rust and Next.js to build a Network Traffic Generator control suite for [Cisco's TRex](https://trex-tgn.cisco.com/) and other NTGs
 * 💼 I currently work as an intern for [University of Utah IT](https://it.utah.edu/) developing automated tests for various applications and APIs
-* 📱 My interests span IoT, smart home systems like [Home Assistant](https://www.home-assistant.io/), MCU-based projects, web development, mobile development, and system administration
+* 📱 My interests span IoT, home automation systems like [Home Assistant](https://www.home-assistant.io/) and [ESPHome](https://esphome.io/), MCU-based projects, web development, mobile development, and system administration
 * 💭 I'm passionate about creating impactful software and exploring cutting-edge technologies
 
 ## 🛠 Technical Skills
