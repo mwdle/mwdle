@@ -1,29 +1,10 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Hand Wave Emoji Animation"> Welcome to my GitHub profile
-
 This space serves as a showcase for my independent projects, custom tools and configurations, and various other programming endeavors that I'm passionate about.
-
-> 📚 Academic projects are not included to ensure compliance with academic integrity and conduct policies.
 
 <img src="https://komarev.com/ghpvc/?username=mwdle&style=flat-square&color=blue" alt="The number of times the profile has been viewed.">
 
-## 👤 About Me
-
-* 🎓 I will graduate from the [University of Utah](https://www.utah.edu/) in May 2025 with a Bachelor’s in Computer Science
-  * 📖 My Senior Capstone team is sponsored by L3Harris. We are utilizing Rust and Next.js to build a Network Traffic Generator control suite for [Cisco's TRex](https://trex-tgn.cisco.com/) and other NTGs
-* 💼 I currently work for [University of Utah IT](https://it.utah.edu/) handling oversight and development of automated tests for various applications and APIs, among other things.
-* 📱 My interests span IoT, home automation systems like [Home Assistant](https://www.home-assistant.io/) and [ESPHome](https://esphome.io/), MCU-based projects, web development, mobile development, and system administration
-* 💭 I'm passionate about creating impactful software and exploring cutting-edge technologies
-
-## 🛠 Technical Skills
-
-**Programming Languages:** Python, Java, Kotlin, JavaScript, C, C++, C#, SQL, HTML, CSS, Dockerfile/Compose & more.
-
-**Technologies & Tools:** Linux, Docker, Node.js, REST APIs, Selenium, MySQL/MariaDB, Android, QT, Espressif MCUs, & more.
-
 ## 📊 Stats
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwdle&langs_count=8&layout=compact&theme=radical&hide_border=true" alt="My top used programming languages" width=350rem height=300rem/>
 
-## 🤝 Connect with Me
-
+## 📬 Connect with Me
 <a href="https://www.linkedin.com/in/mwdle"><img align="top" height="23px" src="https://img.shields.io/badge/-linkedin\mwdle-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"></a>
