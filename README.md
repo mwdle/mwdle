@@ -1,6 +1,6 @@
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align: middle;" alt="Animated Hand Wave Greeting" />
-  Welcome to my GitHub profile
+  Welcome to my profile
 </h1>
 
 <p align="center">
@@ -14,3 +14,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwdle&langs_count=8&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="400" />
 </p>
+
