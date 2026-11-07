@@ -6,6 +6,6 @@
   Take time to tour my technological tinkerings!
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mwdle&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true" height="200" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwdle&layout=compact&langs_count=8&theme=github_dark&hide_border=true" height="200" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mwdle&hide_rank=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" height="200" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mwdle&layout=compact&langs_count=8&theme=github_dark&hide_border=true" height="200" alt="Top Languages" />
 </p>
